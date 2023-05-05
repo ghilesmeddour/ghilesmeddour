@@ -9,5 +9,5 @@ Data and Poetry.
 ### Textes 📖
 
 - POÈME POUR STÉPHANIE
-- POÈME POUR YASMINE
-- J’ENTENDS CHANCE ABOYER
+- [POÈME POUR YASMINE](https://github.com/ghilesmeddour/ghilesmeddour/blob/main/textes/POEME_POUR_YASMINE.md)
+- [J’ENTENDS CHANCE ABOYER](https://github.com/ghilesmeddour/ghilesmeddour/blob/main/textes/J_ENTENDS_CHANCE_ABOYER.md)
